@@ -1,24 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://yun.openmc.cn/index.html</loc>
+		<loc>https://bingcheng.openmc.cn/blog/index.html</loc>
+		<lastmod>2020-04-12</lastmod>
 	</url>
 	<url>
-		<loc>https://yun.openmc.cn/blog/index.html</loc>
+		<loc>https://bingcheng.openmc.cn/blog/blog/index.html</loc>
+		<lastmod>2020-04-12</lastmod>
 	</url>
 	<url>
-		<loc>https://yun.openmc.cn/downloads/index.html</loc>
+		<loc>https://bingcheng.openmc.cn/blog/blog/files/archive-april-2020.html</loc>
+		<lastmod>2020-04-12</lastmod>
 	</url>
 	<url>
-		<loc>https://yun.openmc.cn/blog-2/index.html</loc>
+		<loc>https://bingcheng.openmc.cn/blog/downloads/index.html</loc>
+		<lastmod>2020-04-12</lastmod>
 	</url>
 	<url>
-		<loc>https://yun.openmc.cn/blog-2/files/poetry-1-me.html</loc>
+		<loc>https://bingcheng.openmc.cn/blog/blog-2/index.html</loc>
+		<lastmod>2020-04-12</lastmod>
 	</url>
 	<url>
-		<loc>https://yun.openmc.cn/markdown/index.html</loc>
+		<loc>https://bingcheng.openmc.cn/blog/blog-2/files/poetry-1-me.html</loc>
+		<lastmod>2020-04-12</lastmod>
 	</url>
 	<url>
-		<loc>https://yun.openmc.cn/Resume/index.html</loc>
+		<loc>https://bingcheng.openmc.cn/blog/blog-2/files/archive-april-2020.html</loc>
+		<lastmod>2020-04-12</lastmod>
+	</url>
+	<url>
+		<loc>https://bingcheng.openmc.cn/blog/Resume/index.html</loc>
+		<lastmod>2020-04-12</lastmod>
 	</url>
 </urlset>
