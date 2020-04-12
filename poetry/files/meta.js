@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"poetry.html":"在dreamweaver中，如果插入 Horizontal Rule (水平线)，默认情况下这根线只是灰色，在很多情况下，这并不符合我们的要求。如果想要插入其他颜色的直线(甚至细到一个像素)，该怎么办呢?","archive-april-2020.html":"Archives for April 2020"};
+	var websiteMeta = {"high-school-life-style.html":"荧光条条明如昼，白光漫漫洒窗牖。\n细针落地犹可闻，红日一去万音休…","archive-april-2020.html":"Archives for April 2020"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
