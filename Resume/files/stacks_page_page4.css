@@ -86,8 +86,8 @@
 }
 
 #stacks_in_p201_n5_page4 .flippingThing, #stacks_in_p201_n5_page4 .front, #stacks_in_p201_n5_page4 .back {
-	width: 135px;
-	height: 135px;
+	width: 100px;
+	height: 100px;
 }
 
 #stacks_in_p201_n5_page4 .back {
@@ -122,9 +122,9 @@
 
 #stacks_in_p201_n5_page4 .reverse.flippingThing .flipperyThing {
 
-	-webkit-transform-origin: 100% 67px;
-	   -moz-transform-origin: 100% 67px;
-			transform-origin: 100% 67px;
+	-webkit-transform-origin: 100% 50px;
+	   -moz-transform-origin: 100% 50px;
+			transform-origin: 100% 50px;
 }
 
 #stacks_in_p201_n5_page4 .reverse.flippingThing:hover .flipperyThing {
@@ -230,8 +230,8 @@
 }
 
 #stacks_in_p201_n26_page4 .flippingThing, #stacks_in_p201_n26_page4 .front, #stacks_in_p201_n26_page4 .back {
-	width: 135px;
-	height: 135px;
+	width: 100px;
+	height: 100px;
 }
 
 #stacks_in_p201_n26_page4 .back {
@@ -266,9 +266,9 @@
 
 #stacks_in_p201_n26_page4 .reverse.flippingThing .flipperyThing {
 
-	-webkit-transform-origin: 100% 67px;
-	   -moz-transform-origin: 100% 67px;
-			transform-origin: 100% 67px;
+	-webkit-transform-origin: 100% 50px;
+	   -moz-transform-origin: 100% 50px;
+			transform-origin: 100% 50px;
 }
 
 #stacks_in_p201_n26_page4 .reverse.flippingThing:hover .flipperyThing {
