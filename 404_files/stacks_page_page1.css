@@ -37,15 +37,15 @@
 	 
 	border-radius: 50%;
 	color: #FFFFFF;
-	font-size: 14px;
+	font-size: 30px;
 	text-decoration: none;
 	opacity: 0;
 	z-index: 100;
 	text-shadow: 0 1px 0px #333333;
-	text-shadow:none;
+	
 	text-transform: none;;
 	;
-	font-weight:normal;;
+	font-weight:bold;;
 	-webkit-transform: scale(0.7);
 	   -moz-transform: scale(0.7);
 		-ms-transform: scale(0.7);
@@ -53,11 +53,23 @@
 	-webkit-transition: 0.2s;
 	   -moz-transition: 0.2s;
 			transition: 0.2s;
+	
+	-webkit-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+	   -moz-box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+			box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
 	 
 }
 
 
 
+
+#stacks_in_2_page1 {
+	margin:  2px;
+}
+
+#stacks_out_2_page1 {
+	width: 71%;
+}
 /*  */
 #card-stacks_in_4_page1 .card-inner:hover::before {
   opacity: 0.8; }
