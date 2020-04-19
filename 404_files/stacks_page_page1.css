@@ -1,3 +1,10 @@
+
+#stacks_in_1_page1 {
+	background-image: url("../404_files/backgroundImage_1.png");
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
 /* PopThing by RapidWeaver Central  */
 
 /* Adapted from a pen by Chris Coyier @ css-tricks.com */
@@ -72,7 +79,7 @@
 }
 /*  */
 #card-stacks_in_4_page1 .card-inner:hover::before {
-  opacity: 0.8; }
+  opacity: 0.00; }
 
 #card-stacks_in_4_page1 .card-inner:hover .card-more {
   color: rgba(0, 0, 0, 0.50);
@@ -125,7 +132,7 @@
     /*  */
     background: url(../404_files/card_image_4.png);
     /*  */
-    background-color: rgba(255, 255, 255, 1.00);
+    background-color: rgba(255, 255, 255, 0.00);
     background-size: cover;
     border-radius: 4px;
     background-repeat: no-repeat;
@@ -144,7 +151,7 @@
       height: 105%;
       display: block;
       position: absolute;
-      opacity: 0.8;
+      opacity: 0.00;
       -webkit-transform: translate(-50%, -50%);
               transform: translate(-50%, -50%); }
     #card-stacks_in_4_page1 .card-inner .card-caption {
