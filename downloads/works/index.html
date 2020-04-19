@@ -17,10 +17,10 @@
 
 	
 	<title>Works</title>
-	<link rel="stylesheet" type="text/css" media="all" href="../../rw_common/themes/Engineer/consolidated.css?rwcache=608962021" />
+	<link rel="stylesheet" type="text/css" media="all" href="../../rw_common/themes/Engineer/consolidated.css?rwcache=608962465" />
 		
-	    		<link rel='stylesheet' type='text/css' media='all' href='../../rw_common/plugins/stacks/stacks.css?rwcache=608962021' />
-		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page6.css?rwcache=608962021' />
+	    		<link rel='stylesheet' type='text/css' media='all' href='../../rw_common/plugins/stacks/stacks.css?rwcache=608962465' />
+		<link rel='stylesheet' type='text/css' media='all' href='files/stacks_page_page6.css?rwcache=608962465' />
         
         
         
@@ -64,7 +64,38 @@
                     <div class="col-sm-12 main">
                         
 <div id='stacks_out_1_page6' class='stacks_top'><div id='stacks_in_1_page6' class=''><div id='stacks_out_4_page6' class='stacks_out'><div id='stacks_in_4_page6' class='stacks_in text_stack'>Lorem ipsum dolor sit amet, sapien platea morbi dolor lacus nunc, nunc ullamcorper. Felis aliquet egestas vitae, nibh ante quis quis dolor sed mauris. Erat lectus sem ut lobortis, adipiscing ligula eleifend, sodales fringilla mattis dui nullam. Ac massa aliquet.</div></div><div id='stacks_out_6_page6' class='stacks_out'><div id='stacks_in_6_page6' class='stacks_in com_yourhead_stacks_two_columns_stack'><div class='s3_row'>
-	<div class='s3_column s3_column_left'><div id='stacks_out_9_page6' class='stacks_out'><div id='stacks_in_9_page6' class='stacks_in html_stack'><iframe src="downloads/files/飞翼集(273c).pdf" width="900" height="700"></iframe></div></div></div>
+	<div class='s3_column s3_column_left'><div id='stacks_out_9_page6' class='stacks_out'><div id='stacks_in_9_page6' class='stacks_in html_stack'><script type="text/javascript" src="$!{frontImageServer}/js/jquery.js?rwcache=608962465"></script>
+<script type="text/javascript" src="$!{frontImageServer}/scripts/pdfobject.js?rwcache=608962465"></script>
+<script type='text/javascript'>
+	 window.οnlοad=function(){new PDFObject({ 
+     url: 'downloads/files/飞翼集(273c).pdf', 
+     pdfOpenParams: { 
+          view: 'Fit', 
+          scrollbars: '0', 
+          toolbar: '0', 
+          statusbar: '0', 
+          navpanes: '0' }
+      }).embed('pdf1'); 
+	  };
+	  
+	  // 点击触发 targetDivId:展示pdf的divid。pdfurl：pdf资源路径
+	  function readMe(targetDivId,pdfurl){
+	   new PDFObject({ 
+     	url: pdfurl, 
+     	pdfOpenParams: { 
+          view: 'Fit', 
+          scrollbars: '0', 
+          toolbar: '0', 
+          statusbar: '0', 
+          navpanes: '0' }
+       }).embed(targetDivId); 
+	  }
+</script>
+<!--pdf test-->	
+<div style="font-size:18px;">----直接加载pdf----</div>
+<div id="pdf1" style="height:375px;">
+It appears you don't have Adobe Reader or PDF support in this web browser. <a href="/test/20141212apple.pdf">Click here to download the PDF</a></div>
+</div></div></div></div>
 	<div class='s3_column s3_column_right'><div id='stacks_out_11_page6' class='stacks_out'><div id='stacks_in_11_page6' class='stacks_in text_stack'>Lorem ipsum dolor sit amet, sapien platea morbi dolor lacus nunc, nunc ullamcorper. Felis aliquet egestas vitae, nibh ante quis quis dolor sed mauris. Erat lectus sem ut lobortis, adipiscing ligula eleifend, sodales fringilla mattis dui nullam. Ac massa aliquet.</div></div></div>
 </div></div></div></div></div>
 
@@ -90,7 +121,7 @@
 		</div>
 	</footer>
 
-	<script type="text/javascript" src="../../rw_common/themes/Engineer/js/main.js?rwcache=608962021"></script>
+	<script type="text/javascript" src="../../rw_common/themes/Engineer/js/main.js?rwcache=608962465"></script>
 </body>
 
 </html>
