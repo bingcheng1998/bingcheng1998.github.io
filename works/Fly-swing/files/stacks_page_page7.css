@@ -1,0 +1,80 @@
+/* TileThing by RapidWeaver Central */
+
+#tilethingstacks_in_8_page7 {
+	position: relative;
+	display: block;
+}
+
+#tilethingstacks_in_8_page7 a:link {
+	text-decoration: none !important;
+}
+
+#stacks_in_8_page7 .tilething {
+	position: relative;
+	display: block;
+	 
+	
+	background: ;	
+	 
+	
+}
+
+#stacks_in_8_page7 .tilething:hover {
+	-webkit-transform: scale(0.96, 0.96);
+	   -moz-transform: scale(0.96, 0.96);
+		-ms-transform: scale(0.96, 0.96);
+			transform: scale(0.96, 0.96);
+}
+
+#stacks_in_8_page7 .tilething:active {
+	-webkit-transform: scale(0.94, 0.94);
+	   -moz-transform: scale(0.94, 0.94);
+		-ms-transform: scale(0.94, 0.94);
+			transform: scale(0.94, 0.94);
+}
+
+.static-bg0stacks_in_8_page7 {
+	background: transparent;
+}
+
+.static-bg1stacks_in_8_page7 {
+	background: #4458E0;
+}
+
+.static-bg2stacks_in_8_page7 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, right bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, right bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(left, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(left, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=1);
+}
+
+.static-bg3stacks_in_8_page7 {
+	background-color: #FFFFFF;
+	background-repeat: repeat-x;
+	background-image: -khtml-gradient(linear, left top, left bottom, from(#FFFFFF), to(#FFFFFF));
+	background-image: -moz-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -ms-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #FFFFFF), color-stop(100%, #FFFFFF));
+	background-image: -webkit-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: -o-linear-gradient(top, #FFFFFF, #FFFFFF);
+	background-image: linear-gradient(top, #FFFFFF, #FFFFFF);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#FFFFFF', endColorstr='#FFFFFF', GradientType=0);
+}
+
+.static-bg4stacks_in_8_page7 {
+	background: url();
+	background-position: center center;
+	background-repeat: repeat;
+}
+
+.static-bg5stacks_in_8_page7 {
+	background: url();
+	background-position: Center Center;
+	background-repeat: ;
+}
