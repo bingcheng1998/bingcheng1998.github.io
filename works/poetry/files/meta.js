@@ -56,7 +56,7 @@
 	};
  
 	// Object containing all website meta info
-	var websiteMeta = {"high-school-life-style.html":"荧光条条明如昼，白光漫漫洒窗牖。\n细针落地犹可闻，红日一去万音休…","archive-april-2020.html":"Archives for April 2020"};
+	var websiteMeta = {"archive-may-2020.html":"Archives for May 2020","archive-april-2020.html":"Archives for April 2020","high-school-life-style.html":"荧光条条明如昼，白光漫漫洒窗牖。\n细针落地犹可闻，红日一去万音休…","beauty-spring.html":"初日分云出，新绿窜幽来。\n异志行高低，扪足领吾侪。"};
  
 	// pageId must match the key in websiteMeta object
 	var url = window.location.pathname;
