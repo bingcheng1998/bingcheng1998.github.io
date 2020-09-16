@@ -63,7 +63,7 @@
             justify-content: space-between; }
     #card-stacks_in_24_page6 .card-inner::before {
       /*  */
-      background: linear-gradient(to bottom right, #FC466B, #3F5EFB);
+      background: linear-gradient(to bottom right, #1DE4FF, #3F5EFB);
       /*  */
       content: '';
       top: 50%;
@@ -196,7 +196,7 @@
             justify-content: space-between; }
     #card-stacks_in_26_page6 .card-inner::before {
       /*  */
-      background: linear-gradient(to bottom right, #FC466B, #3F5EFB);
+      background: linear-gradient(to bottom right, #72FFF0, #3F5EFB);
       /*  */
       content: '';
       top: 50%;
