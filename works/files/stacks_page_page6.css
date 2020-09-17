@@ -196,7 +196,7 @@
             justify-content: space-between; }
     #card-stacks_in_26_page6 .card-inner::before {
       /*  */
-      background: linear-gradient(to bottom right, #72FFF0, #3F5EFB);
+      background: linear-gradient(to bottom right, #FEC813, #BB1FFB);
       /*  */
       content: '';
       top: 50%;
