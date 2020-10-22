@@ -568,16 +568,20 @@
 @media only screen and (max-width: 400px) {
 
 
-	#stacks_in_29_page0>.s3_row  {
-		margin: -10px 0;
-	}
-	#stacks_in_29_page0>.s3_row>.s3_column {
-		padding: 10px 0;
-		width:100%;
-	}
-
 
 }
 
 
 
+
+#stacks_out_21_page0 {
+	width: 32%;
+}
+
+#stacks_out_25_page0 {
+	width: 30%;
+}
+
+#stacks_out_27_page0 {
+	width: 31%;
+}
