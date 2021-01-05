@@ -1,6 +1,6 @@
 
-#stacks_in_1_page1 {
-	background-image: url("../404_files/backgroundImage_1.png");
+#stacks_in_1 {
+    background-image: url("99EFD32C-693A-4895-B84A-D49F7EFA44A5");
 	background-repeat: repeat;
 	background-size: cover;
 	background-position: center;
@@ -9,13 +9,13 @@
 
 /* Adapted from a pen by Chris Coyier @ css-tricks.com */
 
-#popThingstacks_in_2_page1 {
+#popThingstacks_in_2 {
 	position: relative;
 	margin: 80px 80px 0 0;
 	padding: 0;
 }
 
-#popThingstacks_in_2_page1:hover .popthing, #popThingstacks_in_2_page1:active .popthing {
+#popThingstacks_in_2:hover .popthing, #popThingstacks_in_2:active .popthing {
 	opacity: 1;
 	-webkit-transform: scale(1);
 	   -moz-transform: scale(1);
@@ -23,14 +23,14 @@
 			transform: scale(1);
 }
 
-#popThingstacks_in_2_page1:hover .popthing:hover, #popThingstacks_in_2_page1:hover .popthing:active, #popThingstacks_in_2_page1:active .popthing:hover, #popThingstacks_in_2_page1:active .popthing:active {
+#popThingstacks_in_2:hover .popthing:hover, #popThingstacks_in_2:hover .popthing:active, #popThingstacks_in_2:active .popthing:hover, #popThingstacks_in_2:active .popthing:active {
 	-webkit-transform: scale(1.1);
 	   -moz-transform: scale(1.1);
 		-ms-transform: scale(1.1);
 			transform: scale(1.1);
 }
 
-#stacks_in_2_page1 .popthing {
+#stacks_in_2 .popthing {
 	position: absolute;
 	top: 0;
 	right: 0;
@@ -70,47 +70,47 @@
 
 
 
-#stacks_in_2_page1 {
+#stacks_in_2 {
 	margin:  2px;
 }
 
-#stacks_out_2_page1 {
+#stacks_out_2 {
 	width: 71%;
 }
 /*  */
-#card-stacks_in_4_page1 .card-inner:hover::before {
+#card-stacks_in_4 .card-inner:hover::before {
   opacity: 0.00; }
 
-#card-stacks_in_4_page1 .card-inner:hover .card-more {
+#card-stacks_in_4 .card-inner:hover .card-more {
   color: rgba(0, 0, 0, 0.50);
   background: rgba(255, 255, 255, 1.00); }
 
-#card-stacks_in_4_page1 .card-inner.shift:hover {
+#card-stacks_in_4 .card-inner.shift:hover {
   -webkit-transform: translateY(-14px);
           transform: translateY(-14px); }
 
 /*  */
-.com_weavium_stacks_Image_Card_stack, #stacks_out_4_page1 {
+.com_weavium_stacks_Image_Card_stack, #stacks_out_4 {
   overflow: visible !important; }
 
-#card-stacks_in_4_page1 {
+#card-stacks_in_4 {
   /*  */
   width: 100%;
   /*  */
   padding: 30px 20px;
   box-sizing: border-box; }
-  #card-stacks_in_4_page1.card-left {
+  #card-stacks_in_4.card-left {
     margin-right: auto; }
-  #card-stacks_in_4_page1.card-right {
+  #card-stacks_in_4.card-right {
     margin-left: auto; }
-  #card-stacks_in_4_page1.card-center {
+  #card-stacks_in_4.card-center {
     margin: 0 auto; }
-  #card-stacks_in_4_page1 * {
+  #card-stacks_in_4 * {
     box-sizing: border-box;
     transition: all 0.3s ease-out; }
-  #card-stacks_in_4_page1 a:first-of-type {
+  #card-stacks_in_4 a:first-of-type {
     text-decoration: none; }
-  #card-stacks_in_4_page1 .card-inner {
+  #card-stacks_in_4 .card-inner {
     /*  */
     font-family: "Montserrat";
     /*  */
@@ -128,7 +128,7 @@
         -ms-flex-direction: column;
             flex-direction: column;
     /*  */
-    background: url(../404_files/card_image_4.png);
+    background: url(../404_files/card_image-4.png);
     /*  */
     background-color: rgba(255, 255, 255, 0.00);
     background-size: cover;
@@ -138,7 +138,7 @@
     -webkit-box-pack: justify;
         -ms-flex-pack: justify;
             justify-content: space-between; }
-    #card-stacks_in_4_page1 .card-inner::before {
+    #card-stacks_in_4 .card-inner::before {
       /*  */
       background: linear-gradient(to bottom right, #FC466B, #3F5EFB);
       /*  */
@@ -152,7 +152,7 @@
       opacity: 0.00;
       -webkit-transform: translate(-50%, -50%);
               transform: translate(-50%, -50%); }
-    #card-stacks_in_4_page1 .card-inner .card-caption {
+    #card-stacks_in_4 .card-inner .card-caption {
       /*  */
       text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.50);
       /*  */
@@ -160,9 +160,9 @@
       z-index: 2;
       font-weight: bold;
       position: relative; }
-      #card-stacks_in_4_page1 .card-inner .card-caption.hide {
+      #card-stacks_in_4 .card-inner .card-caption.hide {
         display: none; }
-    #card-stacks_in_4_page1 .card-inner .card-more {
+    #card-stacks_in_4 .card-inner .card-more {
       z-index: 2;
       margin-top: auto;
       width: 35px;
@@ -183,28 +183,28 @@
       border: 3px solid rgba(255, 255, 255, 1.00);
       border-radius: 35px;
       transition: all 0.1s ease-out; }
-      #card-stacks_in_4_page1 .card-inner .card-more.hide {
+      #card-stacks_in_4 .card-inner .card-more.hide {
         display: none; }
-      #card-stacks_in_4_page1 .card-inner .card-more i {
+      #card-stacks_in_4 .card-inner .card-more i {
         font-size: 20px; }
 
 @media (min-width: 767px) {
-  #card-stacks_in_4_page1 .card-inner {
+  #card-stacks_in_4 .card-inner {
     height: 250px; }
-    #card-stacks_in_4_page1 .card-inner .card-caption {
+    #card-stacks_in_4 .card-inner .card-caption {
       font-size: 24px;
       line-height: 34px; } }
 
 @media (min-width: 468px) and (max-width: 767px) {
-  #card-stacks_in_4_page1 .card-inner {
+  #card-stacks_in_4 .card-inner {
     height: 250px; }
-    #card-stacks_in_4_page1 .card-inner .card-caption {
+    #card-stacks_in_4 .card-inner .card-caption {
       font-size: 24px;
       line-height: 34px; } }
 
 @media (min-width: 0px) and (max-width: 468px) {
-  #card-stacks_in_4_page1 .card-inner {
+  #card-stacks_in_4 .card-inner {
     height: 250px; }
-    #card-stacks_in_4_page1 .card-inner .card-caption {
+    #card-stacks_in_4 .card-inner .card-caption {
       font-size: 24px;
       line-height: 34px; } }
