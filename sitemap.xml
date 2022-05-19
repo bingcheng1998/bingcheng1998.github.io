@@ -2,20 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://bingcheng.openmc.cn/index.html</loc>
+		<lastmod>2022-05-19</lastmod>
 	</url>
 	<url>
 		<loc>https://bingcheng.openmc.cn/works/index.html</loc>
+		<lastmod>2022-05-19</lastmod>
 	</url>
 	<url>
 		<loc>https://bingcheng.openmc.cn/about/index.html</loc>
-	</url>
-	<url>
-		<loc>https://bingcheng.openmc.cn/Album/index.html</loc>
-	</url>
-	<url>
-		<loc>https://bingcheng.openmc.cn/Album/childhood/index.html</loc>
-	</url>
-	<url>
-		<loc>https://bingcheng.openmc.cn/Album/travel/index.html</loc>
+		<lastmod>2022-05-19</lastmod>
 	</url>
 </urlset>
